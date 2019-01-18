@@ -1,0 +1,6 @@
+owner=503309740324159498
+prefix= 2
+game=Playing 2Play
+stayinchannel=true
+songinstatus=false
+token=NTM1NjM4OTA1Njc2ODkwMTEy.DyLEPw.s5iAMNvalD3BYqlrY-gDF5mc8bY
